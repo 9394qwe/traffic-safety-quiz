@@ -1,0 +1,1 @@
+{"name": "交通安全答题挑战", "short_name": "安全答题", "id": "./", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f4f8ff", "theme_color": "#2464ce", "icons": [{"src": "./icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]}
